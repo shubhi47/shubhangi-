@@ -1,0 +1,4 @@
+# config.py
+
+SUPABASE_URL = "https://nabuijirzmsrzlasnkxy.supabase.co"
+SUPABASE_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Im5hYnVpamlyem1zcnpsYXNua3h5Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MDc1ODQ4MDIsImV4cCI6MjAyMzE2MDgwMn0.D77sl2roueWiiSxFAmxLi88PyeHNnnNm8ShRoe8475g"
